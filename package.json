@@ -1,0 +1,10 @@
+{
+  "name": "adapt-authoring-uiplugintest",
+  "version": "0.0.1",
+  "description": "A test addition for the Adapt authoring tool UI",
+  "homepage": "https://github.com/taylortom/adapt-authoring-uiplugintest",
+  "main": "index.js",
+  "dependencies": {
+    "adapt-authoring-core": "git+https://github.com/adapt-security/adapt-authoring-core.git"
+  }
+}
